@@ -1,0 +1,2 @@
+En este documento realmente no sabía lo que JC insertó porque olvidé como ingresar a VI. Pero ya pude y aquí andamos. Ya pude comparar que i aparezca directamente en el txt.
+Las rama en git nos permiten administrar.
